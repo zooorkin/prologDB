@@ -6,10 +6,15 @@
 	objectVersion = 48;
 	objects = {
 
+/* Begin PBXFileReference section */
+		884F581120726F7400913BA1 /* prologDB.pl */ = {isa = PBXFileReference; lastKnownFileType = text.script.perl; path = prologDB.pl; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		884F580720726EE500913BA1 = {
 			isa = PBXGroup;
 			children = (
+				884F581120726F7400913BA1 /* prologDB.pl */,
 			);
 			sourceTree = "<group>";
 		};
